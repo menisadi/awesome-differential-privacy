@@ -3,7 +3,7 @@ list of differential-privacy related repositories
 
 ## code
 - [google's Reporting Algorithms](https://github.com/google/rappor)
-- [PyDp](https://github.com/menisadi/pydp)
+- [PyDp - python implementation of some algorithms](https://github.com/menisadi/pydp)
 - [MW - synthetic data](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl)
 - [GUPT - Data Mining Platform](https://github.com/prashmohan/GUPT)
 
