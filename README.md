@@ -11,7 +11,7 @@ list of differential-privacy related repositories
 - [Differential privacy for dummies](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md)
 - [An illustrated primer](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-06.md)
 - [Win-Vector Blog](http://www.win-vector.com/blog/2015/11/our-differential-privacy-mini-series/)
-- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+- [The Algorithmic Foundations of Differential Privacy - Book](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 
 ## License
 
