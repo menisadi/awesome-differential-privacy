@@ -11,6 +11,7 @@ list of differential-privacy related repositories (and a bit more)
 - [Dataflow analysis & differential privacy for SQL queries](https://github.com/uber/sql-differential-privacy)
 - [Differential Privacy package for WEKA](https://github.com/NidhiKat/DPWeka)
 - [ARX - open source data anonymization tool](https://github.com/arx-deidentifier/arx)
+- [diffpriv  - Easy differential privacy in R](http://www.bipr.net/diffpriv/)
 
 ## learn
 - [Wikipedia](https://en.wikipedia.org/wiki/Differential_privacy)
