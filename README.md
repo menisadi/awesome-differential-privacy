@@ -2,6 +2,8 @@
 list of differential-privacy related repositories (and a bit more)
 
 ## code and projects
+- [OpenDP - Developing Open Source Tools for Differential Privacy](https://opendp.org/)
+- [JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy)
 - [Harvard University Privacy Tools Project](http://privacytools.seas.harvard.edu/)
 - [google's Reporting Algorithms](https://github.com/google/rappor)
 - [PyDp - python implementation of some algorithms](https://github.com/menisadi/pydp)
@@ -22,6 +24,7 @@ list of differential-privacy related repositories (and a bit more)
 - [Win-Vector Blog](http://www.win-vector.com/blog/2015/11/our-differential-privacy-mini-series/)
 - [The Algorithmic Foundations of Differential Privacy - Book](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 - [The Promise of Differential Privacy - A Tutorial on Algorithmic Techniques](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/PID2016981.pdf)
+- [Visualizing the accuracy-privacy trade-off - Demo](https://priyakalot.github.io/ViP-demo/)
 
 ## Industry and Articles
 - [Apple -  Learning with Privacy at Scale ](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
