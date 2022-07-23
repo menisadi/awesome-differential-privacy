@@ -20,8 +20,7 @@ list of differential-privacy related repositories (and a bit more)
 
 - [DP-XGBoost - Private Machine Learning at Scale](https://github.com/sarus-tech/dp-xgboost)
 
-
-## learn
+## learn (text, see below for youtube resources)
 - [Wikipedia](https://en.wikipedia.org/wiki/Differential_privacy)
 - [A Primer for a Non-technical Audience](http://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_0.pdf)
 - [Differential privacy for dummies](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md)
@@ -42,11 +41,13 @@ list of differential-privacy related repositories (and a bit more)
 - [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 
 ## youtube
+- [Gautam Kamath - A Course In Differential Privacy](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
 - [The Definition of Differential Privacy - Cynthia Dwork](https://www.youtube.com/watch?v=lg-VhHlztqo)
-- [Differential Privacy: From Theory to Practice](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
+- [BIU winter school - Differential Privacy: From Theory to Practice](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
 - [Tutorial on Differential Privacy](https://www.youtube.com/watch?v=ekIL65D0R3o)
 - [A Practical Beginners' Guide to Differential Privacy](https://www.youtube.com/watch?v=Gx13lgEudtU)
 - [Accessing Data while Preserving Privacy](https://www.youtube.com/watch?v=GBw07xJyc0c&t=20s)
+- [Minutephysics - Protecting Privacy with MATH (Collab with the Census)](https://www.youtube.com/watch?v=pT19VwBAqKA)
 
 ## License
 
