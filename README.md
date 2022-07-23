@@ -34,7 +34,7 @@ list of differential-privacy related repositories (and a bit more)
 - [The Promise of Differential Privacy - A Tutorial on Algorithmic Techniques](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/PID2016981.pdf)
 - [Visualizing the accuracy-privacy trade-off - Demo](https://priyakalot.github.io/ViP-demo/)
 - [Laplacian Noisy Counting mechanism illustratioin](https://georgianpartners.shinyapps.io/interactive_counting/)
-- 
+
 ## Industry Articles
 - [Apple -  Learning with Privacy at Scale ](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 - [Apple - Differential Privacy](https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf)
