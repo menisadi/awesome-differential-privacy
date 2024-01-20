@@ -21,6 +21,7 @@ list of differential-privacy related repositories (and a bit more)
 - [ARX - open source data anonymization tool](https://github.com/arx-deidentifier/arx)
 - [diffpriv  - Easy differential privacy in R](http://www.bipr.net/diffpriv/)
 - [DP-XGBoost - Private Machine Learning at Scale](https://github.com/sarus-tech/dp-xgboost)
+- [Qrlew - The SQL-to-SQL Differential Privacy layer](https://qrlew.github.io/)
 
 ## Learn
 - [The Algorithmic Foundations of Differential Privacy - Book](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
