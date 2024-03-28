@@ -1,4 +1,4 @@
-# awesome-differential-privacy
+# Awesome Differential Privacy
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 list of differential-privacy related repositories (and a bit more)
