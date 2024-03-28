@@ -56,15 +56,10 @@ list of differential-privacy related repositories (and a bit more)
 - [Google’s Differential Privacy May be Better Than Apple’s](https://www.macobserver.com/analysis/google-apple-differential-privacy/)
 - [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 
-## youtube
+## YouTube
 - [The Definition of Differential Privacy - Cynthia Dwork](https://www.youtube.com/watch?v=lg-VhHlztqo)
 - [Tutorial on Differential Privacy](https://www.youtube.com/watch?v=ekIL65D0R3o)
 - [A Practical Beginners' Guide to Differential Privacy](https://www.youtube.com/watch?v=Gx13lgEudtU)
 - [Accessing Data while Preserving Privacy](https://www.youtube.com/watch?v=GBw07xJyc0c&t=20s)
 - [Minutephysics - Protecting Privacy with MATH (Collab with the Census)](https://www.youtube.com/watch?v=pT19VwBAqKA)
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law
