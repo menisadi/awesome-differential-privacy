@@ -1,4 +1,4 @@
- # awesome-differential-privacy
+# awesome-differential-privacy
  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -60,7 +60,7 @@ list of differential-privacy related repositories (and a bit more)
 - [Microsoft - Privacy and accuracy: How Cynthia Dwork is making data analysis better](https://blogs.microsoft.com/ai/privacy-and-accuracy-how-cynthia-dwork-is-making-data-analysis-better/)
 - [Microsoft - Collecting telemetry data privately ](https://www.microsoft.com/en-us/research/blog/collecting-telemetry-data-privately/)
 - [How One of Apple's Key Privacy Safeguards Falls Short](https://www.wired.com/story/apple-differential-privacy-shortcomings/)
-- [Google’s Differential Privacy May be Better Than Apple’s](https://www.macobserver.com/analysis/google-apple-differential-privacy/)
+- [Google’s Differential Privacy May be Better Than Apples](https://www.macobserver.com/analysis/google-apple-differential-privacy/)
 - [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 
 ## YouTube
