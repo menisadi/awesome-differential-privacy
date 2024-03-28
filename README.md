@@ -4,18 +4,14 @@
 
 list of differential-privacy related repositories (and a bit more)
 
-<!-- TOC start  -->
-
-- [code and projects](#code-and-projects)
+## Contents
+- [code and Projects](#code-and-projects)
 - [Learn](#learn)
 - [Read](#read)
 - [Industry Articles](#industry-articles)
 - [YouTube](#youtube)
 
-<!-- TOC end -->
-
-<!-- TOC --><a name="code-and-projects"></a>
-## code and projects
+## code and Projects
 - [OpenDP - Developing Open Source Tools for Differential Privacy](https://opendp.org/)
 - [Google's differential privacy library](https://github.com/google/differential-privacy)
 - [Opacus - Training PyTorch models with differential privacy](https://github.com/pytorch/opacus)
@@ -37,7 +33,6 @@ list of differential-privacy related repositories (and a bit more)
 - [DP-XGBoost - Private Machine Learning at Scale](https://github.com/sarus-tech/dp-xgboost)
 - [Qrlew - The SQL-to-SQL Differential Privacy layer](https://qrlew.github.io/)
 
-<!-- TOC --><a name="learn"></a>
 ## Learn
 - [The Algorithmic Foundations of Differential Privacy - Book](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 - [Gautam Kamath - A Course In Differential Privacy](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
@@ -46,7 +41,6 @@ list of differential-privacy related repositories (and a bit more)
 - [Programming Differential Privacy - Online book about differential privacy, for programmers](https://programming-dp.com/)
 - [Towards Data Science - Differential Privacy in Deep Learning](https://towardsdatascience.com/differential-privacy-in-deep-learning-cf9cc3591d28)
 
-<!-- TOC --><a name="read"></a>
 ## Read
 - [Wikipedia](https://en.wikipedia.org/wiki/Differential_privacy)
 - [A Primer for a Non-technical Audience](http://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_0.pdf)
@@ -59,7 +53,6 @@ list of differential-privacy related repositories (and a bit more)
 - [Visualizing the accuracy-privacy trade-off - Demo](https://priyakalot.github.io/ViP-demo/)
 - [Laplacian Noisy Counting mechanism illustratioin](https://georgianpartners.shinyapps.io/interactive_counting/)
 
-<!-- TOC --><a name="industry-articles"></a>
 ## Industry Articles
 - [Apple -  Learning with Privacy at Scale ](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)
 - [Apple - Differential Privacy](https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf)
@@ -70,11 +63,9 @@ list of differential-privacy related repositories (and a bit more)
 - [Google’s Differential Privacy May be Better Than Apple’s](https://www.macobserver.com/analysis/google-apple-differential-privacy/)
 - [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 
-<!-- TOC --><a name="youtube"></a>
 ## YouTube
 - [The Definition of Differential Privacy - Cynthia Dwork](https://www.youtube.com/watch?v=lg-VhHlztqo)
 - [Tutorial on Differential Privacy](https://www.youtube.com/watch?v=ekIL65D0R3o)
 - [A Practical Beginners' Guide to Differential Privacy](https://www.youtube.com/watch?v=Gx13lgEudtU)
 - [Accessing Data while Preserving Privacy](https://www.youtube.com/watch?v=GBw07xJyc0c&t=20s)
 - [Minutephysics - Protecting Privacy with MATH (Collab with the Census)](https://www.youtube.com/watch?v=pT19VwBAqKA)
-
