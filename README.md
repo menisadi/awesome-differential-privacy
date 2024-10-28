@@ -3,13 +3,13 @@
 list of differential-privacy related repositories (and a bit more)
 
 ## Contents
-- [code and Projects](#code-and-projects)
+- [Code and Projects](#code-and-projects)
 - [Learn](#learn)
 - [Read](#read)
 - [Industry Articles](#industry-articles)
 - [YouTube](#youtube)
 
-## code and Projects
+## Code and Projects
 - [OpenDP - Developing Open Source Tools for Differential Privacy](https://opendp.org/)
 - [Google's differential privacy library](https://github.com/google/differential-privacy)
 - [Opacus - Training PyTorch models with differential privacy](https://github.com/pytorch/opacus)
