@@ -36,6 +36,7 @@ list of differential-privacy related repositories (and a bit more)
 - [Gautam Kamath - A Course In Differential Privacy](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
 - [BIU winter school - Differential Privacy: From Theory to Practice](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
 - [CS 860 - Algorithms for Private Data Analysis - Fall 2020](http://www.gautamkamath.com/CS860-fa2020.html)
+- [Damien Desfontaines - A friendly, non-technical introduction to differential privacy](https://desfontain.es/blog/friendly-intro-to-differential-privacy.html)
 - [Programming Differential Privacy - Online book about differential privacy, for programmers](https://programming-dp.com/)
 - [Towards Data Science - Differential Privacy in Deep Learning](https://towardsdatascience.com/differential-privacy-in-deep-learning-cf9cc3591d28)
 
