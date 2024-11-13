@@ -71,4 +71,4 @@ list of differential-privacy related repositories (and a bit more)
 
 ## Star History 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=menisadi/awesome-differential-privacy&type=Date&width=350)](https://star-history.com/#menisadi/awesome-differential-privacy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=menisadi/awesome-differential-privacy&type=Date&width=150)](https://star-history.com/#menisadi/awesome-differential-privacy&Date)
