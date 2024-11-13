@@ -69,11 +69,7 @@ list of differential-privacy related repositories (and a bit more)
 - [Accessing Data while Preserving Privacy](https://www.youtube.com/watch?v=GBw07xJyc0c&t=20s)
 - [Minutephysics - Protecting Privacy with MATH (Collab with the Census)](https://www.youtube.com/watch?v=pT19VwBAqKA)
 
-## Star History 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=menisadi/awesome-differential-privacy&type=Date&width=150)](https://star-history.com/#menisadi/awesome-differential-privacy&Date)
-
-## Star History 2
+## Star History
 
 <a href="https://star-history.com/#menisadi/awesome-differential-privacy&Date">
   <img src="https://api.star-history.com/svg?repos=menisadi/awesome-differential-privacy&type=Date" width="600" />
