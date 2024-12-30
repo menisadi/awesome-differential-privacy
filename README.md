@@ -30,6 +30,7 @@ list of differential-privacy related repositories (and a bit more)
 - [diffpriv  - Easy differential privacy in R](http://www.bipr.net/diffpriv/)
 - [DP-XGBoost - Private Machine Learning at Scale](https://github.com/sarus-tech/dp-xgboost)
 - [Qrlew - The SQL-to-SQL Differential Privacy layer](https://qrlew.github.io/)
+- [Breaking Privacy in Real-World Differentially Private Synthetic Data](https://amanpriyanshu.github.io/SynthLeak/)
 
 ## Learn
 - [The Algorithmic Foundations of Differential Privacy - Book](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
