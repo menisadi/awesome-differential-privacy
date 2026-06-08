@@ -32,6 +32,7 @@ list of differential-privacy related repositories (and a bit more)
 - [Qrlew - The SQL-to-SQL Differential Privacy layer](https://qrlew.github.io/)
 - [Breaking Privacy in Real-World Differentially Private Synthetic Data](https://amanpriyanshu.github.io/SynthLeak/)
 - [Fast-Differential-Privacy - A Faster way of training PyTorch models with Differential Privacy ](https://github.com/awslabs/fast-differential-privacy)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Privacy-preserving trust scoring for AI agents. Verify autonomous agent identity without exposing sensitive data — zero-knowledge compatible agent trust layer for private AI deployments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Learn
 - [The Algorithmic Foundations of Differential Privacy - Book](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
