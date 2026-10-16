@@ -28,6 +28,7 @@
 - [DP-XGBoost](https://github.com/sarus-tech/dp-xgboost) - Differentially private gradient boosted trees at scale, built on XGBoost.
 - [Qrlew](https://qrlew.github.io/) - SQL-to-SQL rewriting layer that makes queries differentially private.
 - [SynthLeak](https://amanpriyanshu.github.io/SynthLeak/) - Experiments on breaking privacy in real-world differentially private synthetic data.
+- [diffpriv-pure](https://github.com/prasad-a-abhishek/diffpriv-pure) - Zero-dependency pure-Python differential privacy library (Laplace mechanism).
 - [Fast Differential Privacy](https://github.com/awslabs/fast-differential-privacy) - Faster differentially private training of PyTorch models.
 
 ## Learn
