@@ -29,6 +29,7 @@
 - [Qrlew](https://qrlew.github.io/) - SQL-to-SQL rewriting layer that makes queries differentially private.
 - [SynthLeak](https://amanpriyanshu.github.io/SynthLeak/) - Experiments on breaking privacy in real-world differentially private synthetic data.
 - [Fast Differential Privacy](https://github.com/awslabs/fast-differential-privacy) - Faster differentially private training of PyTorch models.
+- [fixed-bit-dp-noise-tables](https://github.com/tkmt-lab/fixed-bit-dp-noise-tables) - Finite integer noise tables and Python/C samplers for up to 12 fair random bits, with integer checks of pure DP on specified adjacency edges and replayable exact certificates.
 
 ## Learn
 
